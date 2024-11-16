@@ -4,7 +4,7 @@
   "description": "Portal dos desenvolvedores indie",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Fagoabreu/IndiesBrasil#readme",
   "dependencies": {
-    "next": "^15.0.3"
+    "next": "^15.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   }
 }

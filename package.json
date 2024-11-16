@@ -1,0 +1,22 @@
+{
+  "name": "indiesbrasil",
+  "version": "1.0.0",
+  "description": "Portal dos desenvolvedores indie",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fagoabreu/IndiesBrasil.git"
+  },
+  "author": "Fabio Gomes de Abreu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fagoabreu/IndiesBrasil/issues"
+  },
+  "homepage": "https://github.com/Fagoabreu/IndiesBrasil#readme",
+  "dependencies": {
+    "next": "^15.0.3"
+  }
+}

@@ -6,8 +6,8 @@ function Home() {
       quem trabalha com desenvolvimento de jogos e precisa de espaço para
       crescer em comuinidade.
       <br />
-      Somos sonhadora e dedicadas, inclusive estamos neste momento colocando a
-      mão na massa
+      Somos pessoas sonhadoras e dedicadas, inclusive estamos neste momento
+      colocando a mão na massa.
       <br />
       Pagina em construção
     </>

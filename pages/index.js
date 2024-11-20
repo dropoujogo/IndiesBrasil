@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Comunidade Indies Brasil \n Pagina em construção</h1>
+    return <><h1>Comunidade Indies Brasil</h1><br>Pagina em construção</br></>
 }
 
 export default Home;

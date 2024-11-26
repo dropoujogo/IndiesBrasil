@@ -15,27 +15,28 @@ function Home() {
         Hoje participaram da primeira assembleia: Fabio, Patrick, Gustavo e
         Camilla
         <br />
-        Os temas da primeira assembleia foram:
+        -- Os temas da primeira assembleia foram:
         <br />
-        -Periodicidade de reuniões:
+        ---- Periodicidade de reuniões:
         <br />
         Ficou decidido que iremos fazer uma enquete para saber a disponibilidade
         dos membros.
         <br />
         Fazer a proxima reunião na proxima semana para ver a participação.
         <br />
-        Tarefas da semana:
+        ---- Tarefas da semana:
         <br />
         Artes dos canais (Youtube, Discord e Whattap) quem pode se volutariar
         <br />
-        Definir estratégias nas redes sociais:
+        ---- Definir estratégias nas redes sociais:
         <br />
-        Por enquanto manter as que temos para no futuro se arriscar no instagram
-        e bluesky
+        Usar a organização como chamariz de curiosidade para atrair seguidores e
+        novos membros. Por enquanto manter as que temos para no futuro se
+        arriscar no instagram e bluesky
         <br />
         Aprender como engajar nas redes sociais.
         <br />
-        Discussão sobre o que o que queremos ser:
+        ---- Discussão sobre o que o que queremos ser:
         <br />
         Fiquei responsável de disponibilizar um material sobre cada tipo de
         organização(Sindicato,Associação, Coletivo).
@@ -47,6 +48,9 @@ function Home() {
         <br />
         Levantamento dos membros para criação do material de divulgação e em
         seguida conversar com parceiros.
+        <br />
+        ---- planos para o futuro: nosso proprio site, distribuidora e sistema
+        de vendas
       </code>
     </>
   );

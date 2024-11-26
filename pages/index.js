@@ -10,6 +10,8 @@ function Home() {
       colocando a mão na massa.
       <br />
       Pagina em construção
+      <br />
+      Hoje participaram da primeira assembleia: Fabio, Patric, Gustavo e Camilla
     </>
   );
 }

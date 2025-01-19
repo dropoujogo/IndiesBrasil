@@ -8,7 +8,7 @@ async function query(queryObject) {
     return result;
   } catch (err) {
     console.error(err);
-    throw error;
+    throw err;
   } finally {
     await client.end();
   }
@@ -28,10 +28,12 @@ async function getNewClient() {
   return client;
 }
 
-export default {
+const database = {
   query,
   getNewClient,
 };
+
+export default database;
 
 function getSSLValues() {
   if (process.env.POSTGREES_CA) {

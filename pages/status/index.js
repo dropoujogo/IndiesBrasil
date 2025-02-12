@@ -46,12 +46,12 @@ export default function StatusPage() {
           </div>
         </>
       );
-      return (
-        <>
-          <h2>Database</h2>
-          <div>{databaseStatusInfo}</div>
-        </>
-      );
     }
+    return (
+      <>
+        <h2>Database</h2>
+        <div>{databaseStatusInfo}</div>
+      </>
+    );
   }
 }

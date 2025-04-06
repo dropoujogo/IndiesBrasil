@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Link from "next/link";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function Layout({ children }) {
@@ -12,9 +13,9 @@ export default function Layout({ children }) {
       {/* Navbar */}
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container">
-          <a className="navbar-brand" href="/">
+          <Link className="navbar-brand" href="/">
             Indies do Brasil
-          </a>
+          </Link>
           <button
             className="navbar-toggler"
             type="button"
@@ -26,14 +27,14 @@ export default function Layout({ children }) {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav ms-auto">
               <li className="nav-item">
-                <a className="nav-link active" href="/">
+                <Link className="nav-link active" href="/">
                   Home
-                </a>
+                </Link>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/status">
+                <Link className="nav-link" href="/status">
                   Server Status
-                </a>
+                </Link>
               </li>
             </ul>
           </div>
